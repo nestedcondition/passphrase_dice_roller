@@ -9,7 +9,7 @@ Dictionary from http://world.std.com/~reinhold/beale.wordlist.asc.
 Icon Created by Les Kleuver from the Noun Project  
 
 
-## How to run this application?
+## How to run this application?  
 
 1. Download  dictionary.js, g44.png, manifest.json, popup.html, popup.js, Nunito-Regular.ttf.    
 
@@ -28,4 +28,7 @@ Icon Created by Les Kleuver from the Noun Project
 8. Click the dice icon, a small window will popup with a new pass phrase in it and the phrase will be automatically copied to your clipboard.  
 
 9. Paste your new pass phrase somewhere and move on to more important things.  
+
+10. 7b. Or, instead of the above, download passphrase_dice_roller.crx and drag and drop into your Chrome Extensions tab.  
+
 
