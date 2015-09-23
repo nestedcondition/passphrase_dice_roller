@@ -1,6 +1,6 @@
 'use strict';
 
-var rollFive = function () {
+var rollFive = function() {
   var ans = '';
   for ( var i = 0; i < 5; i++ ) {
     ans += die();
@@ -9,13 +9,13 @@ var rollFive = function () {
 };
 
 
-var die = function () {
-  return Math.floor ( Math.random () * 6 ) + 1 + '';
+var die = function() {
+  return Math.floor ( Math.random() * 6 ) + 1 + '';
 };
 
 
 var newPass = function ( n ) {
-  n = parseInt ( Math.abs ( n ) ) || 5;
+  n = parseInt ( Math.abs( n ) ) || 5;
   var passPhrase = [];
   for ( var i = 0; i < n; i++ ) {
     passPhrase.push ( dict [ rollFive() ] || dict [ rollFive() ] );
@@ -32,7 +32,6 @@ document.addEventListener('DOMContentLoaded', function() {
   var range = document.createRange();
   range.selectNode( pLink );
   window.getSelection().addRange( range );
-  console.log( document.execCommand( 'copy' ) );
-
+  document.execCommand( 'copy' );
   window.getSelection().removeAllRanges();
 });
