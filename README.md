@@ -11,11 +11,11 @@ Icon Created by Les Kleuver from the Noun Project
 
 ## How to run this application?
 
-1. Download  dictionary.js, g44.png, manifest.json, popup.html and popup.js.    
+1. Download  dictionary.js, g44.png, manifest.json, popup.html, popup.js, Nunito-Regular.ttf.    
 
 2. Choose Settings from the Chrome menu.  
 
-3. In Settings, choose Extensions from the sidebar.
+3. In Settings, choose Extensions from the sidebar.  
 
 4. Click the checkbox for Developer mode above the list of Extensions.  
 

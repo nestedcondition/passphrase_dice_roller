@@ -5,7 +5,7 @@ var rollFive = function() {
   for ( var i = 0; i < 5; i++ ) {
     ans += die();
   }
-  return ans * 1;
+  return ans;
 };
 
 
