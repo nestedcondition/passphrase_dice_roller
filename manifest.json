@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+
+  "name": "Passphrase Dice Roller",
+  "description": "Get random passphrase by rolling five dice.",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "g44.png",
+    "default_popup": "popup.html",
+    "default_title": "roll-em"
+  },
+  "permissions": [
+    "clipboardWrite",
+    "clipboardRead"
+  ]
+}
