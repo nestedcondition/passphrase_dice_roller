@@ -29,6 +29,6 @@ Icon Created by Les Kleuver from the Noun Project
 
 9. Paste your new pass phrase somewhere and move on to more important things.  
 
-10. 7b. Or, instead of the above, download passphrase_dice_roller.crx and drag and drop into your Chrome Extensions tab.  
+10. Or, instead of the above, download passphrase_dice_roller.crx and drag and drop into your Chrome Extensions tab.  
 
 
