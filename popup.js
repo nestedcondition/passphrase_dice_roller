@@ -3,13 +3,13 @@
 var rollFive = function() {
   var ans = '';
   for ( var i = 0; i < 5; i++ ) {
-    ans += die();
+    ans += die6();
   }
   return ans;
 };
 
 
-var die = function() {
+var die6 = function() {
   return Math.floor ( Math.random() * 6 ) + 1 + '';
 };
 
