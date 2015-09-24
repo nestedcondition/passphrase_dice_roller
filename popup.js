@@ -26,7 +26,7 @@ var newPass = function ( n ) {
 
 
 document.addEventListener('DOMContentLoaded', function() {
-  var np = newPass();
+  var np = newPass( 6 ); // now with six word pass phrases
   var pLink = document.getElementById( 'password' );
   pLink.value = np;
   var range = document.createRange();

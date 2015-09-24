@@ -2,10 +2,10 @@
   "manifest_version": 2,
 
   "name": "Passphrase Dice Roller",
-  "description": "Get random passphrase by rolling five dice.",
+  "description": "Get random passphrase by rolling five dice, six times.",
   "version": "1.0",
   "default_local": "en",
-  "description": "Generates a random, five word pass phrase and saves to your clipboard.",
+  "description": "Generates a random, six word pass phrase and saves it to your clipboard.",
   "icons": { "16": "icon16.png",
            "48": "icon48.png",
           "128": "icon128.png" },
