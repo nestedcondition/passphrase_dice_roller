@@ -4,9 +4,15 @@
   "name": "Passphrase Dice Roller",
   "description": "Get random passphrase by rolling five dice.",
   "version": "1.0",
+  "default_local": "en",
+  "description": "Generates a random, five word pass phrase and saves to your clipboard.",
+  "icons": { "16": "icon16.png",
+           "48": "icon48.png",
+          "128": "icon128.png" },
 
   "browser_action": {
-    "default_icon": "g44.png",
+    "default_icon": { "19": "icon19.png",
+                      "38": "icon38.png"},
     "default_popup": "popup.html",
     "default_title": "roll-em"
   },

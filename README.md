@@ -4,6 +4,7 @@
 A Chrome extension that generates a random, five word pass phrase.  
 
 Based on the The Diceware Passphrase Home Page:  http://world.std.com/~reinhold/diceware.html.  
+
 Dictionary from http://world.std.com/~reinhold/beale.wordlist.asc.  
 
 Icon Created by Les Kleuver from the Noun Project  
